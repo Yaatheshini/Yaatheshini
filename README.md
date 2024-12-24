@@ -12,6 +12,8 @@
   </a>
 </div>
 
+<br/>
+
 <div align="center">
  
  💻 Here are my GitHub Projects!
