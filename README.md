@@ -66,3 +66,6 @@
 <hr/>
 
 <br/>
+
+#### Acknowledgements
+- This project incorporates code from [Pedro Muniz's repository], licensed under the MIT License.
