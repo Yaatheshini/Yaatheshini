@@ -5,12 +5,6 @@
 <h3 align="center">Honours in Computing Science at the University of Alberta in Canada 🇨🇦 </h3>
 
 <br/>
-
-<div align="center">
- 
- 💻 Here are my GitHub Projects!
-
- </div>
  
 <div align="center"> 
   <a href="https://www.linkedin.com/in/yaatheshini/" target="_blank">
@@ -18,6 +12,12 @@
   </a>
 </div>
 
+<div align="center">
+ 
+ 💻 Here are my GitHub Projects!
+
+ </div>
+ 
  <hr/>
  
 <h2 align="center">⚒️ Languages ⚒️</h2>
