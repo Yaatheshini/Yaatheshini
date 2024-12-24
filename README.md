@@ -22,19 +22,19 @@
  
  <hr/>
  
-<h2 align="center">⚒️ Languages ⚒️</h2>
+<h3 align="center">⚒️ Languages ⚒️</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,javascript,html,css,java,c,swift,r" />
 </div>
 
-<h2 align="center">⚒️ Frameworks ⚒️</h2>
+<h3 align="center">⚒️ Frameworks ⚒️</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=firebase,tensorflow,pytorch,mongodb,mysql,sqlite" />
 </div>
 
-<h2 align="center">⚒️ Tools ⚒️</h2>
+<h3 align="center">⚒️ Tools ⚒️</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,vscode,androidstudio,linux,figma,pycharm,latex,matlab,vim" />
@@ -43,7 +43,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2> My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://github.com/yaatheshini/yaatheshini/raw/output/github-contribution-grid-snake.svg" />
   
@@ -55,7 +55,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-    <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=yaatheshini&theme=react&border_radius=10" alt="streak stats"/>
+    <img width=410 src="https://github-readme-streak-stats.herokuapp.com/?user=yaatheshini&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=yaatheshini&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaatheshini&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
