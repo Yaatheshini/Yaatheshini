@@ -1,29 +1,34 @@
+# .github/workflows/snake.yml
 name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch: # Allow manual trigger
+  push: # Run on push to main branch
     branches:
       - main
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
+      # Step 1: Clone the repository
       - name: Clone repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
     
+      # Step 2: Generate the snake files
       - name: Generate Snake Animation
-        uses: Platane/snk@v4
+        uses: Platane/snk@v3
         with:
           github_user_name: yaatheshini
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # Step 3: Push the snake animation to the output branch
       - name: Push Snake Animation
-        uses: crazy-max/ghaction-github-pages@v4
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
