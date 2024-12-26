@@ -25,11 +25,15 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 3: Debugging - List files
+      # Step 3: Debugging - List all files and directories
       - name: Debugging - List all files and directories
         run: ls -R
 
-      # Step 4: Create output branch if it doesn't exist
+      # Step 4: Create dist directory if missing (ensure the build dir exists)
+      - name: Create dist directory if missing
+        run: mkdir -p dist
+
+      # Step 5: Create output branch if it doesn't exist
       - name: Create output branch if it doesn't exist
         run: |
           git fetch origin
@@ -42,11 +46,11 @@ jobs:
             git push origin output
           fi
 
-      # Step 5: Push the snake animation to the 'output' branch
+      # Step 6: Push the snake animation to the 'output' branch
       - name: Push Snake Animation
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist # Update this if files are in a different directory
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
