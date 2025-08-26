@@ -22,7 +22,8 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: yaatheshini
-        env:
+          outputs: |
+            dist/github-contribution-grid-snake.svg
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # Step 3: Debugging - List all files and directories
