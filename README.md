@@ -25,46 +25,67 @@
 <h3 align="center">⚒️ Languages ⚒️</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,javascript,html,css,java,c,swift,r" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,c,ts,js,swift,postgres" />
 </div>
+<p align="center">
+  Python · Java · C++ · C · SQL · TypeScript · JavaScript · Swift · Assembly
+</p>
 
-<h3 align="center">⚒️ Frameworks ⚒️</h3>
+<br/>
+
+<h3 align="center">⚒️ Frameworks & Databases ⚒️</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=firebase,tensorflow,pytorch,mongodb,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=react,django,fastapi,postgres,mongodb,supabase,tensorflow,pytorch" />
 </div>
+<p align="center">
+  React · Django · FastAPI · PostgreSQL · MongoDB · Supabase · TensorFlow · PyTorch
+</p>
 
-<h3 align="center">⚒️ Tools ⚒️</h3>
+<br/>
+
+<h3 align="center">⚒️ Tools & DevOps ⚒️</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=github,vscode,androidstudio,linux,figma,pycharm,latex,matlab,vim" />
+  <img src="https://skillicons.dev/icons?i=git,docker,github,vscode,androidstudio,pycharm,linux" />
 </div>
+<p align="center">
+  Git · Docker · CI/CD · PyTest · JUnit · Valgrind · JMeter · VS Code · Android Studio · Xcode
+</p>
 
-<hr/>
+<br/>
+
+<h3 align="center">🎨 UI / UX Design 🎨</h3>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+</div>
+<p align="center">
+  Figma · Photoshop · Canva
+</p>
+
+<br/>
+
+<h3 align="center">💻 Operating Systems 💻</h3>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=linux,apple,windows,android" />
+</div>
+<p align="center">
+  Linux · macOS · Windows · Android · iOS
+</p>
 
 <div align="center">
   <h2> My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/yaatheshini/yaatheshini/raw/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/yaatheshini/yaatheshini/raw/output/github-contribution-grid-snake.svg?v=1" />
   
   <br/><br/><br/>
 </div>
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=450 src="https://github-readme-stats.vercel.app/api?username=yaatheshini&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaatheshini&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
 <br/><br/>
-
-<hr/>
-
-<br/>
 
 #### Acknowledgements
 - This project incorporates code from [Pedro Muniz's repository], licensed under the MIT License.
