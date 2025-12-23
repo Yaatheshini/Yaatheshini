@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋🏼;+I'm+Yaatheshini+Ashok!;" />
 </h1>
 
-<h3 align="center"> I'm a third-year Honours in Computing Science student at the University of Alberta in Canada 🇨🇦 </h3>
+<h3 align="center"> I'm a fourth-year Honours in Computing Science student at the University of Alberta in Canada 🇨🇦 </h3>
 
 <br/>
  
@@ -13,14 +13,6 @@
 </div>
 
 <br/>
-
-<div align="center">
- 
- 💻 Here are my GitHub Projects!
-
- </div>
- 
- <hr/>
  
 <h3 align="center">⚒️ Languages ⚒️</h3>
 <br/>
